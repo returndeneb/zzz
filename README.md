@@ -29,7 +29,7 @@ FFmpeg 및 yt-dlp를 활용한 다운로드 기능 구현
 
 OpenCV 및 FFmpeg를 이용하여 특정 프레임을 추출하는 기능 구현
 
-![로고](https://github.com/returndeneb/zzz/Screens.png)
+![로고](https://github.com/returndeneb/zzz/blob/main/Screens.png)
 
 
 4️⃣ 이미지 및 캡션 크롤링 시스템
