@@ -32,6 +32,8 @@ OpenCV 및 FFmpeg를 이용하여 특정 프레임을 추출하는 기능 구현
 ![로고](https://github.com/returndeneb/zzz/blob/main/Screens.png)
 
 
+그림판 부분을 자동으로 인식하고 그림이 완성되면(흰바탕이 되기 이전 프레임) 저장
+
 4️⃣ 이미지 및 캡션 크롤링 시스템
 
 이미 업로드된 이미지 및 캡션 데이터 크롤링
